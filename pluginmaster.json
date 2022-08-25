@@ -7,7 +7,7 @@
     "Description": "A Dalamud plugin that prevents being auto-kicked from FFXIV due to inactivity.\n\nUse //afk to open settings.\n\nOriginal code (AntiAfkKick-Dalamud) by Eternita\nhttps://github.com/Eternita-S/AntiAfkKick",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/FrankWan27/DalamudPlugins/tree/main/src/AntiAfk",
-    "DalamudApiLevel": 6,
+    "DalamudApiLevel": 7,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/FrankWan27/DalamudPlugins/main/plugins/AntiAfk/images/icon.png",
     "Punchline": "Prevents being kicked due to inactivity.",
